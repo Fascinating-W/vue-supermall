@@ -1,29 +1,5 @@
-# vue-supermall
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+目录结构
+components新建两文件夹
+common 所有项目都可用的公共组件
+content 针对本项目业务的公共组件
